@@ -1,2 +1,5 @@
 # CPE487
-Labs
+### Labs
+---
+- [Lab1](./Lab1) \
+- [Lab2](./Lab2)
